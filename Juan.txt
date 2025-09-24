@@ -1,4 +1,2 @@
-[master 6db7cac] Curso:Grado superior grupo:DAM
- 3 files changed, 3 insertions(+), 1 deletion(-)
- create mode 100644 Juan.txt
- create mode 100644 nombre_apellido.txt
+[master 9f673e9] Nombre Juan Pablo ZUluaga Hincapie, Curso Grado Superior, Grupo DAM
+ 1 file changed, 4 insertions(+), 1 deletion(-)
