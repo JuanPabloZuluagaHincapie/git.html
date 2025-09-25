@@ -1,2 +1,2 @@
-[master 9f673e9] Nombre Juan Pablo ZUluaga Hincapie, Curso Grado Superior, Grupo DAM
- 1 file changed, 4 insertions(+), 1 deletion(-)
+[master 245c172] Nombre Juan Pablo ZUluaga Hincapie, Curso Grado Superior, Grupo DAM
+ 1 file changed, 2 insertions(+), 4 deletions(-)
